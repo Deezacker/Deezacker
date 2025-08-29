@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online.
 
 
 <details>
@@ -36,7 +36,7 @@ I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Re
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align='right' src="https://giffiles.alphacoders.com/156/15675.gif">
 
 👉 Still Learning Bug hunting & Web-App Pentesting.
 
