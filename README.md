@@ -38,15 +38,15 @@ I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Re
 
 <img width="25%" align='right' src="https://giffiles.alphacoders.com/156/15675.gif">
 
-👉 Still Learning Bug hunting & Web-App Pentesting.
+🛡️Still Learning Bug hunting & Web-App Pentesting.
 
-👉 Managing Tech Communities & Content creator.
+🛡️Managing Cyber Warriors.
 
-👉 Writing Some Useful Tools For Myself & Communities
+🛡️Writing Some Useful Tools For Myself & for the Team
 
-👉 Building & Contributing To Open Source Projects
+🛡️Building & Contributing To Open Source Projects
 
-👉 Currently Learning mobile pentesting & web3 
+🛡️Currently Learning mobile pentesting & web3 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -82,10 +82,10 @@ I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Re
 
 
 <p align="center">
-  <b><i>"Mastering Cyber Security Until I Breathe"</i></b>
+  <b><i>"Hack For Fun"</i></b>
 </p>
 <p align="center">
-<a>🌱</a>
+<a>🔴</a>
 </p>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
