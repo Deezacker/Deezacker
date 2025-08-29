@@ -1,27 +1,19 @@
-<h1 align="center">Hi , I'm Deezacker</h1>
-<h3 align="center">A Passionate Jr Penetration Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deezacker&label=Profile%20views&color=0e75b6&style=flat" alt="deezacker" /> </p>
+ Hello there, I'm Deezacker!<br><br>I'm a junior penetration tester passionate about cybersecurity and ethical hacking. My journey in the world of infosec is just beginning, and I'm always eager to learn, grow, and contribute to the community.<br><br>You'll find me exploring various security domains, including:<br><br>    Web Application Security: Finding vulnerabilities in web apps (e.g., XSS, SQLi, CSRF).<br><br>    Network Penetration Testing: Identifying and exploiting weaknesses in network infrastructure.<br><br>    Vulnerability Analysis: Researching and understanding CVEs and other security flaws.<br><br>    Scripting & Automation: Writing scripts in Python or Bash to automate tasks and streamline my workflow.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deezacker" alt="deezacker" /></a> </p>
 
-- Linkedin **rhari24**
+ Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deezacker_deez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhari24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@deezacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deezackerproject@gmail.com) 
 
-- Bugcrowdn **Deezacker24**
+ Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rhari24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhari24" height="30" width="40" /></a>
-<a href="https://instagram.com/deezacker_deez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deezacker_deez" height="30" width="40" /></a>
-<a href="https://medium.com/@deezacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deezacker" height="30" width="40" /></a>
-</p>
+ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deezacker&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deezacker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deezacker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Deezacker&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deezacker&show_icons=true&locale=en&layout=compact" alt="deezacker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deezacker&show_icons=true&locale=en" alt="deezacker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deezacker&" alt="deezacker" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
