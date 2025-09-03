@@ -7,7 +7,7 @@
 </div>
 
 
-<img width="28%" align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
+<img width="28%" align='right' src="https://giffiles.alphacoders.com/156/15675.gif">
 
 
 <h2 align="left">
@@ -36,7 +36,7 @@ I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Re
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://giffiles.alphacoders.com/156/15675.gif">
+<img width="25%" align='right' src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
 
 🛡️Still Learning Bug hunting & Web-App Pentesting.
 
