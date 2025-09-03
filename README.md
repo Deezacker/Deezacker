@@ -12,7 +12,7 @@
 
 <h2 align="left">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU1cXd6a3kwMWZma3ZsZWswY2pkcXJlN2t4dGJoN3ZocjFpamxhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="29px"/>
 </h2>
 
 I'm **[`Deezacker`](https://www.youtube.com/deezacker)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online.
